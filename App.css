@@ -1,0 +1,38 @@
+body {
+  margin: 0%;
+  padding: 0%;
+}
+
+.first-text-sec {
+  align-items: center;
+  text-align: center;
+  background-color: aqua;
+}
+
+.first-text-sec .text1 {
+  font-family: poppins, sans-serif;
+  font-weight: 700;
+  background-clip: text;
+  letter-spacing: 1px;
+  text-align: center;
+  align-items: center;
+  color: #333333;
+}
+
+.first-text-sec .text1_2 {
+  font-family: poppins, sans-serif;
+  font-weight: 500;
+  background-clip: text;
+  letter-spacing: 1px;
+  color: #0a4ebf;
+  padding-bottom: 10px;
+}
+
+.third_image_sec {
+  width: 100%;
+  padding-bottom: 10px;
+}
+.third_image_secc {
+  width: 95%;
+  padding-bottom: 20px;
+}

@@ -1,0 +1,52 @@
+.main{
+    display: flex;
+    padding: 30px;
+    /* padding-bottom: 30px; */
+    background-color: #374550;
+    color: white;
+    text-align: left;
+    /* /* font-weight: 200; */
+    font-size:100%;
+    height: inherit;
+}
+.left{
+    flex: 1;
+    padding-left: 10px;
+}
+.right{   
+    flex: 1;
+    padding-left: 10px;
+}
+.span-botton{
+    display: flex;
+}
+a{
+    padding: 5px;
+}
+
+.bottom-middle{
+    display: flex;
+    flex: 1;
+    gap: 10px;
+    padding-left: 250px;
+    background-color:  #677b8b;
+    color: white;
+    font-size: medium;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.last-para{
+    text-align: left;
+    font-size: small;
+    font-weight: 500;
+    background-color: #374550;
+    color: white;
+}
+.b_logo{
+    padding-top: 10px;
+    padding-right: 10px;
+    width: 150px;
+}
+
+

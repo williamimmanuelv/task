@@ -1,0 +1,17 @@
+.sub_title{
+    font-weight: 600;
+}
+.sub-main{
+    justify-content: baseline;
+    align-items: center;
+    padding-bottom: 10px;
+}
+.sub_title_2{
+    font-weight: 600;
+    width: 300px;
+    background-color: #f1f5ff;
+    padding: 5px 14px;
+    margin: auto;
+    border-left:7px solid purple ;
+    border-radius: 5px;
+}

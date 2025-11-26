@@ -1,0 +1,46 @@
+.main-nav {
+  width: 100%;
+  color: white;
+}
+
+.search-wrapper {
+  position: relative;
+}
+
+.icons-wrapper {
+  gap: 7px;
+}
+
+.wishlist-menu {
+  min-width: 15rem;
+  padding: 0;
+  left: -155px;
+  max-height: 400px;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+
+.bell-menu {
+  min-width: 18rem;
+  padding: 0;
+  left: -230px;
+  max-height: 400px;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+
+.model-heading {
+  color: black;
+}
+
+.logo {
+  height: auto;
+}
+
+.modal-content {
+  border-radius: 6px;
+}
+
+.small-text {
+  font-size: 13px;
+}
